@@ -1,0 +1,36 @@
+.menu-item
+{
+    background-color: #0c4da2;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: bold;
+    font-style: italic;   
+    
+
+}
+.menu-item:hover
+{
+    background-color: yellow;
+       
+}
+#banner
+{
+    margin-top: 20px;
+}
+#course h3
+{
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 4px  solid #0c4da2;
+    padding: 5px;
+
+}
+#course p
+{
+    text-align: center;
+}
+
+
